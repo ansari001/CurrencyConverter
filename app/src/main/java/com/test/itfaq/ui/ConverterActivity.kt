@@ -29,7 +29,7 @@ class ConverterActivity : AppCompatActivity() {
             if (!TextUtils.isEmpty(it)) {
                 val text = it.toString()
                 val result = text.toDouble() * selectedCurrency?.rate?.toDouble()!!
-                binding.edtResult.setText(result.toString())
+                binding.edtResult.setText(String.format("%.2f", result))
             } else {
                 binding.edtResult.setText("")
             }
