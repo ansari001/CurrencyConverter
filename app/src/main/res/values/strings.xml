@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ansari</string>
+    <string name="converter">Converter</string>
+    <string name="menu">Menu</string>
+    <string name="menu_currency_converter">Currency Converter</string>
+    <string name="menu_anagram">Anagram</string>
+    <string name="menu_fibonacci_by_recursive">Fibonacci by Recursive</string>
+    <string name="menu_fibonacci_by_iterative">Fibonacci by Iterative</string>
+    <string name="anagram">Anagram</string>
+    <string name="check">Check Anagram</string>
+    <string name="generate_fibonacci">Generate Fibonacci</string>
+    <string name="base_title">Base Currency: USD</string>
+    <string name="_1">1</string>
+    <string name="something_went_wrong">Something went wrong! Please try again later…</string>
+    <string name="okay">Okay</string>
+    <string name="msg_first_string">Please enter first string!</string>
+    <string name="msg_second_string">Please enter second string!</string>
+</resources>
